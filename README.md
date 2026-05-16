@@ -23,8 +23,8 @@ The website is designed to provide a smooth user experience, detailing the compa
 [Click here to view the live website](#) *(رح نحط رابط GitHub Pages هون)*
 
 ## 🖥️ Preview
-*(Put a screenshot of the website here)*
-![Website Preview](link-to-your-image.png)
+<img width="2523" height="1300" alt="moya1" src="https://github.com/user-attachments/assets/3995fe49-3f15-45eb-a946-a9ab2e17a9c3" />
 
 ---
 *This project highlights my ability to build real-world business websites that meet client needs and enhance their digital presence.*
+
