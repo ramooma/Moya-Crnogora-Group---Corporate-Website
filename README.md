@@ -20,7 +20,7 @@ The website is designed to provide a smooth user experience, detailing the compa
 - **Concepts:** Responsive Web Design (RWD), UI/UX implementation.
 
 ## 🌐 Live Demo
-[Click here to view the live website]([#](https://ramooma.github.io/Moya-Crnogora-Group---Corporate-Website/)) 
+[Click here to view the live website]([https://ramooma.github.io/Moya-Crnogora-Group---Corporate-Website/]
 
 ## 🖥️ Preview
 <img width="2523" height="1300" alt="moya1" src="https://github.com/user-attachments/assets/3995fe49-3f15-45eb-a946-a9ab2e17a9c3" />
